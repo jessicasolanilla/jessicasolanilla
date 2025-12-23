@@ -6,7 +6,7 @@ Me motiva la posibilidad de crear y desarrollar soluciones desde cero, combinand
 
 Contacto
 - Email: jessicasolanilla@gmail.com
-- LinkedIn: (opcional — añade tu enlace si quieres)
+- LinkedIn: www.linkedin.com/in/jessicasolanilla
 
 Qué encontrarás en este perfil
 - Ejemplos educativos y anónimos de programación en Ladder y Structured Text.
@@ -28,7 +28,9 @@ Proyectos destacados (ejemplos)
 - Scripts de análisis de logs — Python para procesar archivos CSV y generar reportes.
 
 Aviso sobre confidencialidad
-Todos los proyectos y archivos en este perfil son de carácter educativo o están anonimizados. No contienen código ni datos pertenecientes a empresas o clientes reales. Si necesitas que adapte ejemplos a un caso real, lo haremos respetando la confidencialidad y la normativa aplicable.
+Todos los proyectos y archivos en este perfil son de carácter educativo o están anonimizados.
+No contienen código ni datos pertenecientes a empresas o clientes reales. 
+Si necesitas que adapte ejemplos a un caso real, lo haremos respetando la confidencialidad y la normativa aplicable.
 
 
 
