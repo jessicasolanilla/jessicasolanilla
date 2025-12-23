@@ -27,7 +27,7 @@ Proyectos destacados (ejemplos)
 - Plantilla de checklist de comisionamiento — Procedimiento y checklist en PDF.
 - Scripts de análisis de logs — Python para procesar archivos CSV y generar reportes.
 
-Aviso sobre confidencialidad
+Aviso sobre confidencialidad:
 Todos los proyectos y archivos en este perfil son de carácter educativo o están anonimizados.
 No contienen código ni datos pertenecientes a empresas o clientes reales. 
 Si necesitas que adapte ejemplos a un caso real, lo haremos respetando la confidencialidad y la normativa aplicable.
